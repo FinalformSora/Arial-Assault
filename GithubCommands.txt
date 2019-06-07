@@ -1,0 +1,12 @@
+﻿git log //check history
+git remote add origin [copied web address] //connecting to online repo
+$ git remote set-url origin git@github.com:FinalformSora/Arial-Assault.git //updateing online repo
+git push // Push changes to remote repository (remembered branch)
+git pull // get changes from online repo to local repo
+git push -u origin [branch name] //update online repo
+git commit -m “[descriptive message]” // 
+commit your staged content as a new commit snapshot
+git add . // adds all new material
+git checkout -b [branch name] // creates branch with that name
+git checkout [branch name] //  switch branch
+git branch [branch name] // switch branches
